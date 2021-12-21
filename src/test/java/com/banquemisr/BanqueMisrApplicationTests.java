@@ -1,4 +1,4 @@
-package com.example.banquemisr;
+package com.banquemisr;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
